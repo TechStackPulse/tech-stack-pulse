@@ -1,0 +1,3 @@
+git config --global user.name "TechStackPulse"
+
+git config --global user.email "ourcode10@gmail.com"
