@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Tech Stack Pulse - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2025-03-28T11:03:29.005Z</entry>
+<entry key="groupId">com.adobe.aem.tsp</entry>
+<entry key="name">tech-stack-pulse.all</entry>
+<entry key="description">All content package for Tech Stack Pulse</entry>
+<entry key="artifactId">tech-stack-pulse.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.tsp</entry>
+</properties>

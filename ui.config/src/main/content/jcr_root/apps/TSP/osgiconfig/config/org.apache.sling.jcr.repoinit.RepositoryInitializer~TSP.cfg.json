@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/TSP",
+        "create path (nt:unstructured) /content/dam/TSP/jcr:content",
+        "set properties on /content/dam/TSP/jcr:content\n  set cq:conf{String} to /conf/TSP\n  set jcr:title{String} to \"Tech Stack Pulse\"\nend"
+    ]
+}

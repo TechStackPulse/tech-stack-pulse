@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/TSP/.*?/(category-page|product-page)"
+}

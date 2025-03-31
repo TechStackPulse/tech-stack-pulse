@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Tech Stack Pulse - UI apps</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="dependencies-locations">adobe/cq60:core.wcm.components.content:2.17.12=maven:com.adobe.cq:core.wcm.components.content:2.17.12:zip,adobe/cq60:core.wcm.components.config:2.17.12=maven:com.adobe.cq:core.wcm.components.config:2.17.12:zip</entry>
+<entry key="created">2025-03-28T11:03:17.184Z</entry>
+<entry key="groupId">com.adobe.aem.tsp</entry>
+<entry key="description">UI apps package for Tech Stack Pulse</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">application</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">adobe/cq60:core.wcm.components.content:2.17.12,adobe/cq60:core.wcm.components.config:2.17.12</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">tech-stack-pulse.ui.apps</entry>
+<entry key="artifactId">tech-stack-pulse.ui.apps</entry>
+<entry key="group">com.adobe.aem.tsp</entry>
+</properties>

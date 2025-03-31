@@ -1,6 +1,0 @@
-git config --global user.name "TechStackPulse"
-
-git config --global user.email "ourcode10@gmail.com"ddd
-
-
-git remote add origin git@github.com:TechStackPulse/tech-stack-pulse
